@@ -1,0 +1,5 @@
+- 👨‍💻 Software Developer 
+- Python 🐍, Java ☕, C 🖥️, HTML/CSS 🌐 
+- 🚀 Passionate about crafting clean code and building scalable applications.
+- 💼 Experienced in Full Stack Developer. 
+- 🌟 Open to collaboration and eager to learn. Let's code together! 🤝
